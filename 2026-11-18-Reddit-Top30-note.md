@@ -1,5 +1,5 @@
 【note タイトル — 本文には含めません】
-案1: Reddit日本語解説 2026/11/18｜GPT-6.2発表とOpenAI提訴
+案1: Reddit日本語解説 2026/11/18｜今日の目玉はGPT-6.2発表とOpenAI提訴
 
 ＝＝＝ ハッシュタグ ＝＝＝
 #毎日note #Reddit #AI #生成AI #海外ニュース #海外トレンド #海外の反応 #OpenAI #Cursor #ローカルLLM
